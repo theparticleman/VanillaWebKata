@@ -408,7 +408,7 @@ While not the correct choice for every project, hopefully this kata showed you t
 
 # Going Above And Beyond
 
-If you got through this entire kata and would like some additional challenges, here are a few ideas on how the kata could be expanded. They are in no particular order. Feel free to anywhere between none and all of them.
+If you got through this entire kata and would like some additional challenges, here are a few ideas on how the kata could be expanded. They are in no particular order. Feel free to as many or as few as you'd like.
 
 * Do you like the styles we ended up with? Try making your own styles to give your website a different look.
 * There are other endpoints in the Mega Man Quotes API besides the one to get a random quote (check the [documentation page](https://megamanquotes.com/api)). Add a way to use these other endpoints to your web page.
